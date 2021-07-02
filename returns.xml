@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="utf-8"?>
 <returns>
 	<return>
@@ -17,7 +18,7 @@
 	<return>
 	<tan>T94067732</tan>
 	<not>Rfqjdihobe</not>
-	<city>Kamloops</city>
+	<city>Regina</city>
 	<province>BC</province>
 	</return>
 	
@@ -33,13 +34,6 @@
 	<not>Umzhnmoicx</not>
 	<city>Dorval</city>
 	<province>QC</province>
-	</return>
-	
-	<return>
-	<tan>T27381278</tan>
-	<not>Umzhnmoicx</not>
-	<city>Port Perry</city>
-	<province>ON</province>
-	</return>
-
+  </return>
+  
 </returns>
